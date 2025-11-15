@@ -19,7 +19,7 @@
 詳しくはGitHubのリポジトリ・ポートフォリオなどをご覧ください！
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fujitasan-create&layout=compact)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fujitasan-create&show_icons=true&theme=tokyonight)
 
 ### 開発環境
 
