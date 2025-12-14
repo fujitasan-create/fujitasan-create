@@ -8,7 +8,7 @@
   - GPU:GeForse RTX4060
   - CPU:Ryzen 5 4500
   - RAM:16GB
-  - SSD:512GB
+  - SSD:2.5TB
   - OS:Windows 11 Pro
 
 - ノートPC：M1 MacBookAir
