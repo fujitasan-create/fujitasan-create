@@ -2,6 +2,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fujitasan-create&layout=compact)
 
+初めまして！fujita-createと申します！
+メインのプロジェクトは非公開ですが一部公開しているものもございます！ぜひご覧ください♪
+
 ### 開発環境
 
 - デスクトップPC：GALLERIA RM5R-R46
