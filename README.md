@@ -18,4 +18,4 @@
 
 - エディタ・ツール
   - エディタ：VScode/Visual Studio/Jupyter Lab/Cursor
-  - LLMツール：ChatGPT・Gemini・VeniceAI・Cursor
+  - LLMツール：ChatGPT・Gemini・Claude・Cursor・CodeX
