@@ -1,6 +1,5 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=fujitasan-create)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fujitasan-create&layout=compact)
 
 主に非公開リポジトリを扱う際のアカウントです。公開リポジトリはこちらまで→https://github.com/fujitasan-create-public
 
